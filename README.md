@@ -2,4 +2,7 @@
 
 This is a Truffle package that allows viewers to interact with streamers via redeemable collectibles.
 
-Requires Node >= 18
+A few endpoints are provided:
+- `/collectibles` for managing all Minecraft event Collectibles
+- `/collectibles/new` for creating a new Minecraft event Collectible
+- A catch-all for basic 404 page
