@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "deploy-pkg": "truffle-cli deploy",
+    "deploy-supabase": "cd backend/ && supabase functions deploy minecraft-event-handler --no-verify-jwt"
+  },
+  "fmt": {
+    "options": {
+      "lineWidth": 140
+    }
+  }
+}
