@@ -6,3 +6,5 @@ A few endpoints are provided:
 - `/collectibles` for managing all Minecraft event Collectibles
 - `/collectibles/new` for creating a new Minecraft event Collectible
 - A catch-all for basic 404 page
+
+Note that the webhook URL provided is purely for development purposes, and may not be responsive.
